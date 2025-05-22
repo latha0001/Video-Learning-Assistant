@@ -73,7 +73,9 @@ npm run dev
 
 
 
-This will start the application at `http://localhost:5173/` (default Vite port).
+This will start the application at `http://localhost:5173/`.
+
+Vercel Demo Live Link : 'https://bytyudbbcshd.vercel.app/'.
 
 ### Building for Production
 
